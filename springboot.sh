@@ -5,3 +5,5 @@ cd Simple_Spring_Boot_Application/
 mvn clean install
 cd target/
 java -jar deployment-0.0.1-SNAPSHOT.jar
+
+# http://<your-ip>:8080/test
